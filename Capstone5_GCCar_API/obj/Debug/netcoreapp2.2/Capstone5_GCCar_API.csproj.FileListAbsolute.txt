@@ -1,0 +1,14 @@
+C:\Users\Deno\Documents\Grand Circus\capstone\Capstone5_GCCar_API\Capstone5_GCCar_API\bin\Debug\netcoreapp2.2\Capstone5_GCCar_API.deps.json
+C:\Users\Deno\Documents\Grand Circus\capstone\Capstone5_GCCar_API\Capstone5_GCCar_API\bin\Debug\netcoreapp2.2\Capstone5_GCCar_API.runtimeconfig.json
+C:\Users\Deno\Documents\Grand Circus\capstone\Capstone5_GCCar_API\Capstone5_GCCar_API\bin\Debug\netcoreapp2.2\Capstone5_GCCar_API.runtimeconfig.dev.json
+C:\Users\Deno\Documents\Grand Circus\capstone\Capstone5_GCCar_API\Capstone5_GCCar_API\bin\Debug\netcoreapp2.2\Capstone5_GCCar_API.dll
+C:\Users\Deno\Documents\Grand Circus\capstone\Capstone5_GCCar_API\Capstone5_GCCar_API\obj\Debug\netcoreapp2.2\Capstone5_GCCar_API.csprojAssemblyReference.cache
+C:\Users\Deno\Documents\Grand Circus\capstone\Capstone5_GCCar_API\Capstone5_GCCar_API\obj\Debug\netcoreapp2.2\Capstone5_GCCar_API.csproj.CoreCompileInputs.cache
+C:\Users\Deno\Documents\Grand Circus\capstone\Capstone5_GCCar_API\Capstone5_GCCar_API\obj\Debug\netcoreapp2.2\Capstone5_GCCar_API.RazorAssemblyInfo.cache
+C:\Users\Deno\Documents\Grand Circus\capstone\Capstone5_GCCar_API\Capstone5_GCCar_API\obj\Debug\netcoreapp2.2\Capstone5_GCCar_API.RazorAssemblyInfo.cs
+C:\Users\Deno\Documents\Grand Circus\capstone\Capstone5_GCCar_API\Capstone5_GCCar_API\obj\Debug\netcoreapp2.2\Capstone5_GCCar_API.AssemblyInfoInputs.cache
+C:\Users\Deno\Documents\Grand Circus\capstone\Capstone5_GCCar_API\Capstone5_GCCar_API\obj\Debug\netcoreapp2.2\Capstone5_GCCar_API.AssemblyInfo.cs
+C:\Users\Deno\Documents\Grand Circus\capstone\Capstone5_GCCar_API\Capstone5_GCCar_API\obj\Debug\netcoreapp2.2\Capstone5_GCCar_API.RazorTargetAssemblyInfo.cache
+C:\Users\Deno\Documents\Grand Circus\capstone\Capstone5_GCCar_API\Capstone5_GCCar_API\bin\Debug\netcoreapp2.2\Capstone5_GCCar_API.pdb
+C:\Users\Deno\Documents\Grand Circus\capstone\Capstone5_GCCar_API\Capstone5_GCCar_API\obj\Debug\netcoreapp2.2\Capstone5_GCCar_API.dll
+C:\Users\Deno\Documents\Grand Circus\capstone\Capstone5_GCCar_API\Capstone5_GCCar_API\obj\Debug\netcoreapp2.2\Capstone5_GCCar_API.pdb
